@@ -12,15 +12,6 @@ function Layout(Props) {
             style={{ maxHeight: "100px" }}
             navbarScroll
           ></Nav>
-          {/* <Form className="d-flex">
-            <Form.Control
-              type="search"
-              placeholder="Search"
-              className="me-2"
-              aria-label="Search"
-            />
-            <Button variant="outline-success">Search</Button>
-          </Form> */}
         </Navbar.Collapse>
       </Container>
     </Navbar>
